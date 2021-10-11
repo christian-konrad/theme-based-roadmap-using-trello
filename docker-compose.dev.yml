@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+  theme-based-roadmap-with-trello-app:
+    container_name: theme-based-roadmap-with-trello-app-dev
+    command: yarn dev -L

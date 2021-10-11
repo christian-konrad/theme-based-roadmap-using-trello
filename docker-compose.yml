@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  theme-based-roadmap-with-trello-app:
+    build: .
+    image: theme-based-roadmap-with-trello-app
+    ports:
+      - '3000:3000'    
+    volumes:
+      - .:/usr/src/theme-based-roadmap-with-trello-app
