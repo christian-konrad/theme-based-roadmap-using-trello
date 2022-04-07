@@ -20,7 +20,7 @@ Set the environment variables:
 cp .env.example .env
 ```
 
-ℹ Open .env and set your trello credentials, board id, and preferenced style themein the environment variables.
+ℹ Open .env and set your trello credentials, board id, and preferenced style theme in the environment variables.
 
 #### How do I get the id of my board?
 
